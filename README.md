@@ -1,1 +1,1 @@
-# sequelize-learning
+# Sequelize Learning
